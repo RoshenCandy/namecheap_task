@@ -1,0 +1,28 @@
+{
+  "user": {
+    "email": "ssls.automation+666@gmail.com",
+    "password": "123456",
+    "firstName": "Tom",
+    "lastName": "Ford",
+    "name": "Tom Ford",
+    "phone": "+380 12312312",
+    "address": {
+      "country": "UA",
+      "state": "Uryupinsk",
+      "city": "Misto",
+      "zip": "612120",
+      "street": "Diagon alley 21"
+    },
+    "supportPin": "r3y6",
+    "newsletterOn": false
+  },
+
+  "nonExistingUser": {
+    "email": "non.existing.email123@gmail.com",
+    "password": "randomPassword!@%$@!$"
+  },
+  "invalidUser": {
+    "email": "ssls.automation+666.gmail.com",
+    "password": "123456"
+  }
+}

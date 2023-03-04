@@ -1,0 +1,24 @@
+{
+  "name": "namecheap_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "npx playwright test",
+    "open-e2e-report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoshenCandy/namecheap_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoshenCandy/namecheap_task/issues"
+  },
+  "homepage": "https://github.com/RoshenCandy/namecheap_task#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
